@@ -1,19 +1,34 @@
 1. Defining a theme
 
-Define a theme of your choosing that includes at least four nouns in the list of most frequent nouns in Hyginus.
+Theme: Nature
 
-In your github repository, list the nouns belonging to your theme in the file nouns1.md that we created together in class.
+arbor, arboris f: tree
 
-2. Finding forms
+1. arbore - fem abl sing magna arbore
+2. arborem - fem acc sing magnam arborem
+3. arbores - fem acc plu magnos arbores
+4. arbori - fem dat sing magnae arboi
+5. arboris - fem gen sing magnae arbois
+6. arborum - fem gen plu magnorum arborum
 
-Use the search box below to find all the distinct forms of each word that actually appear in Hyginus. For example, if you choose aper1 (“wild boar”), you’ll see that it appears in only two forms: apro and aprum.
+flumen, fluminis n: river
 
-Edit your file nouns1.md, and for each noun in your theme, list all the forms that occur, with all possible identifications (gender, case, number).
+1. flumen - neut nom sing
+2. flumina - neut nom plu
+3. flumine - neut abl sing
+4. fluminis - neut gen sing
 
-3. Noun-adjective agreement
+mare, maris n: sea
 
-Choose one noun in your list, and then choose one adjective from the (short!) list of most frequent adjectives in Hyginus.
+1. mare - neut nom sing
+2. mari - neut dat sing
+3. maris - neut gen sing
 
-If your noun is a first or second declension noun, choose a third declension adjective; if your noun is a third declension noun, choose an adjective with first and second declension forms (a “2-1-2” adjective).
+sol, solis m: sun
 
-For all the forms of your noun that appear in Hyginus, write out the noun-adjective pair, and add that to your nouns1.md file.
+1. sol - masc nom sing
+2. sole - masc abl sing
+3. solem - masc acc sing
+4. soli - masc dat sing
+5. solis - masc gen sing
+6. solum - masc gen plu
