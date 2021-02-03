@@ -1,5 +1,3 @@
-1. Defining a theme
-
 Theme: Nature
 
 arbor, arboris f: tree
