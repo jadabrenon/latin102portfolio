@@ -14,8 +14,8 @@ Part 2: recognizing verbs
 For each of the following verbs, identify the tense, voice, mood, person, and number. If the form is singular, convert to plural; if the form is plural, convert to singular
 
 1. petivisset - active, subjunctive, pluperfect, singular, 3rd person, plural: petivissent
-2. necauit - active, indicative, perfect, singular, 3rd person, plural: necaverunt necari
-3. necari - 
+2. necauit - active, indicative, perfect, singular, 3rd person, plural: necaverunt
+3. necari - passive, infinitive, present
 4. rogaretur - active, subjunctive, imperfect, singular, 3rd person, plural: rogarentur
 5. coepit - active, indicative, present, singular, 3rd person, plural: coepiunt
 6. interfecisset - active, subjunctive, pluperfect, singular, 3rd person, plural: interfecissent
@@ -29,6 +29,6 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 2. Centaurs were being *killed* by Hercules. (Use the perfect tense) - interfectae sunt
 3. Centaurs were *killed* by Hercules. (Use the perfect tense) - interfecerunt
 4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.) - interficiat
-5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her. - 
+5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
 6. Hercules *led* Deianira in marriage (i.e., he married her). - duxit 
-7. Hercules repeatedly *asked* Eurytus for permission to marry Iole. - 
+7. Hercules repeatedly *asked* Eurytus for permission to marry Iole. - rogabat
