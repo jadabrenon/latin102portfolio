@@ -1,13 +1,15 @@
+**Needs revisions**
+
 Part 1: recognizing nouns
 
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam - feminine accusative singular
-2. in coniugium - neuter accusative singular
+2. in coniugium - neuter accusative singular ❓ *Translate prepositional phrases.*
 3. animo - masculine  dative/ablative singular
 4. uirgine - femine ablative singular
-5. parentes - masculine nominative plural
-6. ad uxorem - feminine accusative singular
+5. parentes - masculine nominative plural 
+6. ad uxorem - feminine accusative singular ❓ *Translate prepositional phrases.*
 
 Part 2: recognizing verbs
 
@@ -26,9 +28,9 @@ Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
 1. Centaurs are being *killed* by Hercules. (Use the present tense) - interficiuntur
-2. Centaurs were being *killed* by Hercules. (Use the perfect tense) - interfectae sunt
-3. Centaurs were *killed* by Hercules. (Use the perfect tense) - interfecerunt
-4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.) - interficiat
+2. Centaurs were being *killed* by Hercules. (Use the perfect tense) - interf ectae sunt
+3. Centaurs were *killed* by Hercules. (Use the perfect tense) - interfecerunt ❌ (can you use the imperfect?)
+4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.) - interficiat ❌
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
 6. Hercules *led* Deianira in marriage (i.e., he married her). - duxit 
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole. - rogabat
