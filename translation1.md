@@ -1,4 +1,5 @@
-Highlighting like *this* indicates words or phrases referred to in the following grammatical questions.
+A. Grammatical analysis
+Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
 Hercules cum in hospitium ad *Dexamenum* regem 
 
@@ -21,9 +22,6 @@ quia pater eius centaurum timebat,
 Hercules interuenit et centaurum interfecit, 
 
 > Deianiram *abduxit*.
-
-A. Grammatical analysis
-Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
 B. Grammatical questions
 
