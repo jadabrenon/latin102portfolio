@@ -1,4 +1,5 @@
 A. Grammatical analysis
+
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
 Hercules cum in hospitium ad *Dexamenum* regem 
