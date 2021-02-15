@@ -28,9 +28,9 @@ Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
 1. Centaurs are being *killed* by Hercules. (Use the present tense) - interficiuntur
-2. Centaurs were being *killed* by Hercules. (Use the perfect tense) - interf ectae sunt
+2. Centaurs were being *killed* by Hercules. (Use the perfect tense) - interfecibantur
 3. Centaurs were *killed* by Hercules. (Use the perfect tense) - interfecerunt ❌ (can you use the imperfect?) - interfecti sunt
-4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.) - interficiat ❌ - interfecisset
+4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.) - interficiat ❌ - interfecisset 
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
 6. Hercules *led* Deianira in marriage (i.e., he married her). - duxit 
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole. - rogabat
