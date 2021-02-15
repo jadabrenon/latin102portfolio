@@ -1,54 +1,56 @@
-A. Grammatical analysis
+**Needs revisions**
+
+A. Grammatical analysis ❌ *You've got a good start on breaking out clauses, but don't have their dependencies worked out yet.*
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-Hercules cum in hospitium ad *Dexamenum* regem 
+Hercules cum in hospitium ad *Dexamenum* regem  ❌
 
-> *uenisset* eiusque filiam *Deianiram* deuirginasset, 
+> *uenisset* eiusque filiam *Deianiram* deuirginasset,  ❌
 
->> volebat eam uxorem ducere. 
+>> volebat eam uxorem ducere.  ❌
 
-cum Hercules *abesset*, 
+cum Hercules *abesset*,  ❌
 
-> centaurus Eurytion petit Deianiram uxorem.
+> centaurus Eurytion petit Deianiram uxorem. ❌
 
-quia pater eius centaurum timebat, 
+quia pater eius centaurum timebat, ❌
 
-> *pollicitus* est se daturum.
+> *pollicitus* est se daturum.❌
 
-*Tempore certo*, 
+*Tempore certo*,  ❌
 
-> venit centaurus cum fratribus ad nuptias. 
+> venit centaurus cum fratribus ad nuptias. ❌
 
-Hercules interuenit et centaurum interfecit, 
+Hercules interuenit et centaurum interfecit, ❌
 
-> Deianiram *abduxit*.
+> Deianiram *abduxit*. ❌
 
 B. Grammatical questions
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 
 Dexamenus, Dexameni, m. 
-Deamenum = accusative, masculine, singular
+Dexamenum = accusative, masculine, singular
 
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
 
 Deianira, Deianirae, f. 
 Deianiram = accusative, feminine, singular
 
-3. Identify the form abesset, and explain why it is this tense and mood.
+3. Identify the form abesset, and explain why it is this tense and mood. 
 
-It is imperfect subjunctive because the action is in the process of occuring but might not be actually happening
+It is imperfect subjunctive because the action is in the process of occuring but might not be actually happening ❌ *Explain why it is subjunctive; then explain why youy need imperfect. Use the flow chart on our review pages if you like.*
 
 4. Identify the form uenisset, and explain why it is this tense and mood.
 
 3rd person, singular, pluperfect, subjunctive, active
-It is subjunctive pluperfect because the action expressed by the verb occured before the action of the independent clause did
+It is subjunctive pluperfect because the action expressed by the verb occured before the action of the independent clause did ❌ *Explain why it is subjunctive; then explain why youy need imperfect. Use the flow chart on our review pages if you like.*
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 
 3rd person, singular, perfect, indicative, passive
-Look at the 4th principle part
+Look at the 4th principle part ❌ *Tell me the word you look under in the dictionary*
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
@@ -56,5 +58,11 @@ ablative - it expresses the exact time the action occured
 
 C. Translation
 
-Hercules came to King Dexamenus in hospitality, took his duaghter Deianiram's virginity, and wanted to take her as his wife. When Hercules was absent, Eurytion's centaurs demanded Deinariam as his wife. Since the father feared the centaur, he promised her to him. At a certain time, the centaurs and brothers came to the marriage. Hercules intervened and killed the centaurs, and carried off Deianiram.
+Hercules came to King Dexamenus in hospitality, took his duaghter Deianiram's virginity, and wanted to take her as his wife.  ❌ *Can you find an English expression to convey the idea of Latin **cum**?*
+
+When Hercules was absent, *Eurytion's centaurs*❌ demanded Deinariam as his wife. 
+
+Since the father feared the centaur, he promised her to him. 
+
+At a certain time, the centaurs and brothers came to the marriage. Hercules intervened and killed the centaurs, and carried off Deianiram.
 
