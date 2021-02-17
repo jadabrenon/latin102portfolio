@@ -22,11 +22,15 @@ Place each clause on a separate line, indented to show its level of subordinatio
 
 *Tempore certo*,  ❌
 
-> venit centaurus cum fratribus ad nuptias. ❌
+> venit centaurus
+ 
+> cum fratribus ad nuptias. ❌
 
-Hercules interuenit et centaurum interfecit, ❌
+> Hercules *interuenit* 
 
-> Deianiram *abduxit*. ❌
+> et centaurum *interfecit*,
+
+> Deianiram *abduxit*.
 
 B. Grammatical questions
 
