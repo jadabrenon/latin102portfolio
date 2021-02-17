@@ -4,19 +4,21 @@ A. Grammatical analysis ❌ *You've got a good start on breaking out clauses, bu
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-Hercules cum in hospitium ad *Dexamenum* regem  ❌
+>>Hercules cum in hospitium ad Dexamenum regem *uenisset*
 
-> *uenisset* eiusque filiam *Deianiram* deuirginasset,  ❌
+>> eiusque filiam Deianiram *deuirginasset*,
 
->> volebat eam uxorem ducere.  ❌
+> volebat eam uxorem *ducere*.
 
-cum Hercules *abesset*,  ❌
+>> cum Hercules *abesset*, 
 
-> centaurus Eurytion petit Deianiram uxorem. ❌
+> centaurus Eurytion *petit* Deianiram uxorem.
 
-quia pater eius centaurum timebat, ❌
+>>quia pater eius centaurum *timebat*,
 
-> *pollicitus* est se daturum.❌
+> *pollicitus est* 
+
+>> se *daturum*.
 
 *Tempore certo*,  ❌
 
@@ -58,9 +60,9 @@ ablative - it expresses the exact time the action occured
 
 C. Translation
 
-Hercules came to King Dexamenus in hospitality, took his duaghter Deianiram's virginity, and wanted to take her as his wife.  ❌ *Can you find an English expression to convey the idea of Latin **cum**?*
+When Hercules came in hospitality to King Dexamenus and deflowered his daughter, he wanted to lead her as a wife.
 
-When Hercules was absent, *Eurytion's centaurs*❌ demanded Deinariam as his wife. 
+When Hercules was absent, the Centaur, Eurytion, demanded Deinariam as his wife. 
 
 Since the father feared the centaur, he promised her to him. 
 
