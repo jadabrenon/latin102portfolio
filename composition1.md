@@ -11,3 +11,13 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 4. Your fourth sentence should say that Iole endured that her parents were killed.
 
 5. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
+
+Cum Hercules Oechaliam veniret, is conjugium iolen rogavit.
+
+Cum pater eius nollet, Hercules Iolen cepit.
+
+Hercules dixit, "eum parentem eius interfectum esse."
+
+Iole patiebatur, Parentes eius interfecit.
+
+Quia is parentes interficeret, is iolen Deianiram misit.
