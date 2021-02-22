@@ -49,12 +49,12 @@ It is 3rd singular imperfect subjunctive. It is subjunctive because the temporal
 4. Identify the form uenisset, and explain why it is this tense and mood.
 
 3rd person, singular, pluperfect, subjunctive, active
-It is subjunctive pluperfect because it is a secondary sequence temporal clause that happened earlier than the main clause ❌ *Explain why it is subjunctive; then explain why youy need imperfect. Use the flow chart on our review pages if you like.* - **CHANGED**
+It is subjunctive pluperfect because it is a secondary sequence temporal clause that happened earlier than the main clause and because it is explainign circumstances. ❌ *Explain why it is subjunctive; then explain why youy need imperfect. Use the flow chart on our review pages if you like.* - **CHANGED**
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 
 Pollicitus est is 3rd person, singular, perfect, indicative, passive
-Look at the 4th principle part of polliceor, pollicēri, -, pollicitus: to promise ❌ *Tell me the word you look under in the dictionary* - **CHANGED**
+You would look under polliceor to find this verb. ❌ *Tell me the word you look under in the dictionary* - **CHANGED**
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
