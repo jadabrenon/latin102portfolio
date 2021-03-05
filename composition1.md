@@ -12,12 +12,12 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 5. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
-Cum Hercules Oechaliam veniret, is petivit iolen ducere in conjugium.
+Cum Hercules Oechaliam venisset, petivit iolen ducere uxorem.
 
 Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit, "eum parentem eius interfectum esse."❌
+Hercules dixit se interfecturm esse parentes eius.
 
-lole patiebatur Herculem interficere eius parentes.
+Iole passa est parentes, qui erant cives Oechaliae, interfectos esse.
 
-Quia❌ is parentes interficeret, is iolen Deianiram❌ misit.
+Cum Hercules interfecisset omnes parentes, misit iolen and Deianiram.
