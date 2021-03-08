@@ -1,6 +1,10 @@
+**Needs revisions**
+**Very nice first draft!**
+
+
 Verb synopses
 
-Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
+Check one verb of the first or second conjugation other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
 1. mitto, mittĕre, misi, missus: to send do
 
@@ -8,7 +12,7 @@ third plural present indicative active. Mittunt.
 
 third plural present subjunctive active. Mittant.
 
-third plural imperfect indicative active. Mitteban
+third plural imperfect indicative active. Mitteban❌
 
 present infinitive active. Mittere
 
@@ -84,7 +88,7 @@ Cum Quībus.
 
 The antecedent is the brothers and it is masculine and plural.
 
-The latin pronoun is in the ablative because the relative pronoun expresses with.
+The latin pronoun is in the ablative because the relative pronoun expresses with. 👍 **Pronoun *cum* always takes ablative.**
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 
@@ -110,7 +114,7 @@ The latin pronoun is in the genitive because the relative pronoun expresses poss
 
 Nessus, whom Hercules killed, tried to rape Deianira.
 
-Quīem
+Quīem❌
 
 Nessus is the antecedent and it is masculine and singular.
 
@@ -120,11 +124,11 @@ The latin pronoun is in the accustaive because the relative pronoun is the direc
 
 Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
 
-Cui.
+Cui.❌
 
 Vial of blood is the antecedent and it is singular and masculine.
 
-The latin pronoun is in the dative because the relative pronoun is the indirect object.
+The latin pronoun is in the dative because the relative pronoun is the indirect object.❌
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 
@@ -160,11 +164,11 @@ The latin pronoun is in the nominative because the relative pronoun is in the no
 
 Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 
-Quem.
+Quem.❌
 
 Hercules is masculine and singular.
 
-The latin pronoun is in the accustaue because the relative pronoun is the direct object.
+The latin pronoun is in the accustaue because the relative pronoun is the direct object.❌
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
