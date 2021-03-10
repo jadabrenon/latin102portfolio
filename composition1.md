@@ -12,12 +12,12 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 5. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
-Cum Hercules Oechaliam venisset, petivit iolen ducere uxorem.
+Cum Hercules Oechalia venisset, is petivit iolen ducere in conjugium.
 
 Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit se interfecturm esse parentes eius.
+Hercules dixit interfecti est❌ eius parentes. **Hercules dixit se interfecturum esse parentes eius** Indirect statement--> main verb in infinitive with subject in accusative. Interfecti est: singular, future, active, infinitive.
 
-Iole passa est parentes, qui erant cives Oechaliae, interfectos esse.
+Iole patiebatur, Parentes eius interfecit❌. **Iole patiebatur, se parentes eius interfecterum esse** future tense
 
-Cum Hercules interfecisset omnes parentes, misit iolen and Deianiram.
+Cum interficerent omnes eos🤔, misit Iolen Deianirae❌ **Cum Hercules interfecisset omnes parentes, misit Iolen Deianiram** subjunctive
