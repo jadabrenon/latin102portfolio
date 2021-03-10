@@ -16,8 +16,8 @@ Cum Hercules Oechalia venisset, is petivit iolen ducere in conjugium.
 
 Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit interfecti est❌ eius parentes. **Hercules dixit se parentes eius interfecturum esse** Indirect statement--> main verb in infinitive with subject in accusative. Interfecti est: singular, future, active, infinitive.
+**Hercules dixit se parentes eius interfecturum esse**
 
-Iole patiebatur, Parentes eius interfecit❌. **Iole patiebatur, se parentes eius interfecterum esse** future tense
+**Iole passa est, parentes suos interfectos esse**
 
-Cum interficerent omnes eos🤔, misit Iolen Deianirae❌ **Cum Hercules interfecisset omnes parentes, misit Iolen Deianiram** subjunctive
+**Cum Hercules interfecisset omnes parentes, Iolen ad Deianiram misit**
