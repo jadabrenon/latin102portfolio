@@ -1,3 +1,5 @@
+**Full credit**
+
 Instructions
 
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. (DO NOT DIRECTLY TRANSLATE THE PARAGRAPH ABOVE.)
