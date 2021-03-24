@@ -168,7 +168,7 @@ Cui
 
 Hercules is masculine and singular.
 
-**The latin pronoun is in the dative becasue the relative pronoun is in the indirect object. **
+**The latin pronoun is in the dative becasue the relative pronoun is in the indirect object.**
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
