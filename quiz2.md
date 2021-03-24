@@ -75,6 +75,8 @@ identify the antecedent of the pronoun, and its gender and number
 
 identify the case of the Latin pronoun, and explain why it is in that case
 
+identify the case of the Latin pronoun, and explain why it is in that case
+
 Example: if you were given
 
 Hercules was ordered by Eurystheus to perform twelve labors. Eurystheus was the son of Sthenelus. You could make the second sentence a relative clause like this:
@@ -180,5 +182,3 @@ Hercules is masculine and singular.
 
 The latin pronoun is in the accusative because the relative pronoun is the direct object.
 
-
-identify the case of the Latin pronoun, and explain why it is in that case
