@@ -12,7 +12,7 @@ third plural present indicative active. Mittunt.
 
 third plural present subjunctive active. Mittant.
 
-third plural imperfect indicative active. Mitteban❌
+third plural imperfect indicative active. Mittebant.
 
 present infinitive active. Mittere
 
@@ -114,7 +114,7 @@ The latin pronoun is in the genitive because the relative pronoun expresses poss
 
 Nessus, whom Hercules killed, tried to rape Deianira.
 
-Quīem❌
+Quem
 
 Nessus is the antecedent and it is masculine and singular.
 
@@ -124,11 +124,11 @@ The latin pronoun is in the accustaive because the relative pronoun is the direc
 
 Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
 
-Cui.❌
+Quō
 
 Vial of blood is the antecedent and it is singular and masculine.
 
-The latin pronoun is in the dative because the relative pronoun is the indirect object.❌
+**The latin pronoun is in the ablative because the relative pronoun is the ablative of means/instrument**
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 
@@ -164,11 +164,11 @@ The latin pronoun is in the nominative because the relative pronoun is in the no
 
 Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 
-Quem.❌
+Cui
 
 Hercules is masculine and singular.
 
-The latin pronoun is in the accustaue because the relative pronoun is the direct object.❌
+**The latin pronoun is in the dative becasue the relative pronoun is in the indirect object. **
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 
