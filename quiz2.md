@@ -178,7 +178,7 @@ Quem.
 
 Hercules is masculine and singular.
 
-The latin pronoun is in the accustaue because the relative pronoun is the direct object.
+The latin pronoun is in the accusative because the relative pronoun is the direct object.
 
 
 identify the case of the Latin pronoun, and explain why it is in that case
