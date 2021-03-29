@@ -17,7 +17,7 @@ You already know the background to this story: Deianira was tricked by Nessus in
 8. Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
 
-Cum Deinira, filia Oenei et uxor Herculis, vidisset Lolen iuvenem bellam adductam esse, Deianira coepiebat machinari ne privaretur marito.
+Cum Deinira, filia Oeni et uxor Herculis, vidisset Lolen iuvenem bellam adductam esse, Deianira coepiebat machinari ne privaretur marito.
 
 Deinira misit famulum ad ferendum Herculem vestimentum mundavisse in sanguinem centauri Nessi, quam putaverit philtrum.
 
