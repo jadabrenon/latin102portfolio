@@ -16,6 +16,7 @@ You already know the background to this story: Deianira was tricked by Nessus in
 
 8. Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
+**Composition**:
 
 Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
