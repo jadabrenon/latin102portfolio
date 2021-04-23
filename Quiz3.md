@@ -12,39 +12,48 @@ Noun-adjective pairs (in various cases):
 
 uno die
 
-> unus/a/um di+e: dies, diei (m) "day"
+> dies, diei, m.
+> unus, una unum
 
 totum stercus
 
->totus, Tota, Totum "whole, entire" stercus, ŏris, n. "shit"
+> stercus, stercoris, m.
+> totus, tota, totum
 
 ceruum ferocem
 
-> cervus, cervi, n. "bad spices" Ferox, Ferocis "fierce"
+> ferox, ferocis, M
+> ceruus, cerui
 
 tantam vim
 
-> tantus, a, um "such size" vīs, vis, f "force"
+> vis, vires, f.
+> tantus, tanta, tantum
 
 sagittas suas
 
-> sagitta, ae, f: "arrow" suus, a, um "reflexive possessive"
+> ssagitta, sagittae, f.
+> suus, sua, suum
 
 cornibus aureis
 
-> cornu, us. n. "horn" aureus, a, um "adjective for gold"
+> cornus, cornus, f.
+> aureus, aurea, aureum
 
 carne humana
 
-> caro, carnis (f) "flesh" humanus, a, um "human" (i.e "human flesh")
+> carnis, carnis, f.
+> humanus, humana, humunuam
 
 draconem immanem
 
-> immānis, immane draco, draconis (m)
+> draco, draconis, m.
+> immanis, immane
 
 mala aurea
 
-> malum, -i (n) mala, malae (f) aureus/a/um
+> malum, malae, m.
+> aureus, aurea, aureum
 
 Dictionary skills, 2: verb forms
 
@@ -52,7 +61,7 @@ For the following verbs in various forms, list the four principal parts you woul
 
 transierat
 
-> trans-ĕo, īvi or ĭi, ĭtum, īre (to cross)
+> trans-ĕo, īvi or ĭi, ĭtum, īre
 
 afflabat
 
@@ -64,11 +73,11 @@ moriebatur
 
 exinteravit
 
-> exintero, exinterare, exinteravi, exinteratum,
+> exintero, exinterare, exinteravi, exinteratum
 
 effugiebat
 
-> ex+fugi Effugio, Effugere, Effugi, Effugitus (to flee)
+> ex+fugi effugio, effugere, effugi, effugitus
 
 adduxit
 
@@ -80,15 +89,15 @@ iaculabantur
 
 vescebantur
 
-> vescor, vesci,-, ? (to take food)
+> vescor, vesci, -  (to take food)
 
 detraxit
 
-> detraho, detrahere, detraxi, detractum (to draw)
+> detraho, detrahere, detraxi, detractum
 
 solitus erat
 
-> soleo, Solere, Solitus (to be accustomed)
+> soleo, solere, solitus (to be accustomed)
 
 attulit
 
@@ -108,15 +117,15 @@ Minerva (nominative)
 
 in Phrygia
 
-> Phrygia, Phrygiae f. Phyrgia
+> Phrygius, Phrygia, Phrygium
 
 ex Creta
 
-> Creta, Cretae f. Crete
+> Creta, Cretae, f.
 
 Thraciae rex
 
-> Thracia, Thraciae f. (Thracia)
+> Thracia, Thraciae f.
 
 cum Abdero
 
@@ -142,7 +151,7 @@ aprum Erymanthium
 
 aves Stymphalides
 
-> Stymphalis, Stymphalidis
+> Stymphalus, -a, -um
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
@@ -156,17 +165,11 @@ two fourth-declension nouns:
 
 afflatus, afflatūs, (m.), “breathing, breath, blowing”
 
->
-
 cruciatus, cruciatūs, (m.), “torture, torment”
-
->
 
 a third-declension noun:
 
 pars, partis (f.) “part”and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
-
->
 
 The Hydra killed passers by with a great blowing of his poisonous breath.
 
@@ -194,13 +197,13 @@ The victims died in the greatest torment.
 
 Hercules cleaned a great part of the stables.
 
-> partem magnam
+> partem magnam catabuli
 
 Hercules cleaned a greater part of the stables.
 
-> partem maiorem
+> partem maiorem catabuli
 
 Hercules cleaned the greatest part of the stables.
 
-> partem maximam
+> partem maximam catabuli
 
