@@ -22,7 +22,7 @@ totum stercus
 
 ceruum ferocem
 
-> ferox, ferocis, M
+> ferox, ferocis, m.
 > ceruus, cerui
 
 tantam vim
