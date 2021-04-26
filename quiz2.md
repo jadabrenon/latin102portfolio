@@ -1,5 +1,5 @@
-**Needs revisions**
-**Very nice first draft!**
+**Full credit**
+
 
 
 Verb synopses
