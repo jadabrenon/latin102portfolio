@@ -1,3 +1,6 @@
+**Needs minor revisions**
+**Very nice!**
+
 Dictionary skills, 1: noun-adjective pairs
 
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
@@ -27,12 +30,12 @@ ceruum ferocem
 
 tantam vim
 
-> vis, vires, f.
+> vis, vires, f.❌
 > tantus, tanta, tantum
 
 sagittas suas
 
-> ssagitta, sagittae, f.
+> sagitta, sagittae, f.
 > suus, sua, suum
 
 cornibus aureis
@@ -52,7 +55,7 @@ draconem immanem
 
 mala aurea
 
-> malum, malae, m.
+> malum, malae, m.❌
 > aureus, aurea, aureum
 
 Dictionary skills, 2: verb forms
@@ -151,7 +154,7 @@ aprum Erymanthium
 
 aves Stymphalides
 
-> Stymphalus, -a, -um
+> Stymphalus, -a, -um❌
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
@@ -197,13 +200,13 @@ The victims died in the greatest torment.
 
 Hercules cleaned a great part of the stables.
 
-> partem magnam catabuli
+> partem magnam 
 
 Hercules cleaned a greater part of the stables.
 
-> partem maiorem catabuli
+> partem maiorem 
 
 Hercules cleaned the greatest part of the stables.
 
-> partem maximam catabuli
+> partem maximam 
 
