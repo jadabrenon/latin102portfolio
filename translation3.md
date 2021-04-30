@@ -76,4 +76,4 @@ C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
-Hyginu's diction helps to enhance the passage. For example, Hyginus choice to omit Hercules name from each sentence and thos helped make the sentcnes flow better. If he had kept the name Hercules then the passage would have felt repetative. The passage is also enahcned when Hyginus names each of the individual horses, enhancing the idea of how challenging it was for Hecules to kill every one of them.
+The passage is enhanced by diction when Hyginus names each of the individual horses, which suggests just how difficult it was for Hercules to kill every one of them. Also, Hyginus uses the irregular comparitive of *maiorem* which allows us to conclude that Jupiter helped him clean the stall for the majority of the time. This choice helps us achieve a much stronger awareness of the situation as it indicates just how much Jupiter helped in cleaning the manure.
