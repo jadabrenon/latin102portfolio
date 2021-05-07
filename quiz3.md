@@ -1,5 +1,5 @@
 **Needs minor revisions**
-**Very nice!** - revisions in **bold**
+**Very nice!** - revisions in **bold** nexto to "❌"
 
 Dictionary skills, 1: noun-adjective pairs
 
@@ -30,7 +30,7 @@ ceruum ferocem
 
 tantam vim
 
-> **vīs, vis, f.**
+> ❌ **vīs, vis, f.**
 > tantus, tanta, tantum
 
 sagittas suas
@@ -55,7 +55,7 @@ draconem immanem
 
 mala aurea
 
-> **malum, mali, n.**
+> ❌ **malum, mali, n.**
 > aureus, aurea, aureum
 
 Dictionary skills, 2: verb forms
@@ -154,7 +154,7 @@ aprum Erymanthium
 
 aves Stymphalides
 
-> **Stymphalis, Stymphalidis**
+> ❌ **Stymphalis, Stymphalidis**
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
