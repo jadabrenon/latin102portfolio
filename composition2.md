@@ -1,5 +1,5 @@
 **Needs minor revisions**
-**Nice draft!**
+**Nice draft!** - revisions in **bold**
 
 **Background**: 
 You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
@@ -23,10 +23,10 @@ You already know the background to this story: Deianira was tricked by Nessus in
 
 Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
-Ea famulum misit ut daret Herculi vestem, sanguinem❌ centauri Nessi imbuitur, quem ea philtro cogitavit❌.
+Ea famulum misit ut daret Herculi vestem, **sanguine** centauri Nessi tinctam, quem putabat esse.
 
-Hercules vestem induit et hunc statim in flammatum. ❌
+Hercules vestem induit **statimque flammavit**.
 
 Hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.
 
-Herculem immortalitatem desurrexit❓, sed Deinara ea interfecit ob actum.
+Dicitur Herculem ad immortalitatem ortum esse, sed Deinara ea interfecit ob factum.
