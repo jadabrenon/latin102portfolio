@@ -31,10 +31,18 @@ Hyginus, chapter 30, sections 7-9.
 A. Grammatical analysis Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 Augeae regis stercus bobile uno die *purgavit*,
-> maiorem partem Iove *adiutore*;
 
-flumine admisso totum stercus *abluit*.
-> taurum cum quo Pasiphae *concubuit*
+maiorem partem 
+
+> Iove *adiutore*;
+
+> flumine admisso 
+
+totum stercus *abluit*.
+
+taurum 
+
+> cum quo Pasiphae *concubuit*
 
 ex Creta insula Mycenis vivum *adduxit*.
 
@@ -42,7 +50,7 @@ Diomedem Thraciae regem et equos quattuor eius,
 
 > qui carne humana *vescebantur*,
 
-> cum Abdero famulo *interfecit*;
+cum Abdero famulo *interfecit*;
 
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
@@ -54,7 +62,7 @@ Iove is in the ablative case and it is the absolute ablative.
 
 2. What case is stercus, and why is it in that case?
 
-Stercus is in the nominative case (subject).
+Stercus is in the accusative case (direct object)
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
 
@@ -77,3 +85,11 @@ C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
 The passage is enhanced by diction when Hyginus names each of the individual horses, which suggests just how difficult it was for Hercules to kill each and every one of them. Also, Hyginus uses the irregular comparitive of *maiorem* which allows us to conclude that Jupiter helped him clean the stall for the majority of the time. This choice helps us achieve a much stronger awareness of the situation as it indicates just how much Jupiter helped in cleaning the manure.
+
+D. Translation 3
+
+Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr as his helper: Since the river had been let in, he cleaned away all the dung.
+
+Hercules led the bull alive, with whom Pasiphae layed with, from the island of Crete to Mycenae.
+
+Hercules killed Diomedes, the King of Thrace, and his four horses, who ate human flesh, with the slave Abderus. The hourses were named Podargus, Lampon, Xanthus and Dinus.
