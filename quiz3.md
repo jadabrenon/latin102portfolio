@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 **Very nice!** - revisions in **bold** nexto to "❌"
 
 Dictionary skills, 1: noun-adjective pairs
