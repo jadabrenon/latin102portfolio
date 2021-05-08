@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 **Nice draft!** - revisions in **bold** next to "❌"
 
 **Background**: 
